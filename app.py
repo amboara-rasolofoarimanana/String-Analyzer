@@ -391,7 +391,7 @@ if onglet == "💡 Indications":
     - 4/ Vérifier que le **format de date** utilisé soit bien conforme à celui requis 
     - 5/ Vérifier que tous les fichiers onduleurs et irradiance couvrent des **périodes** qui coïncident entre elles
     - 6/ S’assurer que toutes les valeurs soient exprimées dans les **unités** demandées
-    - 7/ Vérifier que toutes les **valeurs numériques** soient **valides** (aucun caractère non-autorisé doit être présent )
+    - 7/ Vérifier que toutes les **valeurs numériques** soient **valides** (aucun caractère non-autorisé ne doit être présent )
     """)    
 
 
