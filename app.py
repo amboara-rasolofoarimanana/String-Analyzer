@@ -394,6 +394,8 @@ if onglet == "💡 Indications":
     - 7/ Vérifier que toutes les **valeurs numériques** soient **valides** (aucun caractère non-autorisé ne doit être présent )
     """)    
 
+    st.markdown("A.R.")
+
 
 elif onglet == "📁 Chargement des données":
     
