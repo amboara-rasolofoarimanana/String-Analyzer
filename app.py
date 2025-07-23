@@ -388,10 +388,10 @@ if onglet == "💡 Indications":
     - 1/ Les fichiers doivent être au **format Excel (.xlsx / .xlsm) ou CSV (.csv)**  
     - 2/ Respecter strictement l’**ordre des colonnes** tel que défini pour chaque tableau 
     - 3/ Veiller à ce que les **strings** soient toujours **ordonnés de manière croissante** ( string 1, string 2, string 3, etc) 
-    - 4/ Vérifier que le **format de date** utilisé est bien conforme à celui requis 
+    - 4/ Vérifier que le **format de date** utilisé soit bien conforme à celui requis 
     - 5/ Vérifier que tous les fichiers onduleurs et irradiance couvrent des **périodes** qui coïncident entre elles
-    - 6/ S’assurer que toutes les valeurs soient exprimés dans les **unités** demandées
-    - 7/ Vérifier que toutes les **valeurs numériques** soient **valides** (aucun caractères non-autorisés doit être présents )
+    - 6/ S’assurer que toutes les valeurs soient exprimées dans les **unités** demandées
+    - 7/ Vérifier que toutes les **valeurs numériques** soient **valides** (aucun caractère non-autorisé doit être présent )
     """)    
 
 
