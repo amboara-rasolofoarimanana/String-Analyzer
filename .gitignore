@@ -1,0 +1,39 @@
+# === Fichiers Python compilés ===
+__pycache__/
+*.py[cod]
+*.so
+
+# === Environnements virtuels ===
+.env/
+.venv/
+env/
+venv/
+
+# === Fichiers de logs ===
+*.log
+
+# === Fichiers Streamlit ===
+.streamlit/config.toml
+.streamlit/*.json
+
+# === Dossiers et fichiers temporaires ===
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# === Fichiers d'IDE ===
+.vscode/
+.idea/
+
+# === Fichiers sensibles ===
+*.env
+
+# === Fichiers binaires ou lourds ===
+*.exe
+*.zip
+*.tar.gz
+*.rar
+
+# === Autres ===
+*.bak
