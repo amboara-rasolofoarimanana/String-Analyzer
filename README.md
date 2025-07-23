@@ -64,7 +64,7 @@ Cette application offre ainsi un outil puissant et intuitif pour optimiser le su
   - **Option 1 : Utilisation du terminal classique du système**
     --> python -m venv env
   - **Option 2 : Utilisation de VSCode**
-    *ouvrir le terminal intégré de VS Code*
+    (*ouvrir le terminal intégré de VS Code*)
     --> python -m venv env
 
 4. #### Activer l'environnement virtuel
