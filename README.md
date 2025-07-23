@@ -68,14 +68,14 @@ Cette application offre ainsi un outil puissant et intuitif pour optimiser le su
     --> python -m venv env
 
 4. #### Activer l'environnement virtuel
-*Valable pour Option 1 et 2*
+  *Valable pour Option 1 et 2*
   - **Sur Windows**
     --> .\env\Scripts\activate
   - **Sur macOS/Linux**
     --> source env/bin/activate
 
 5. #### Installer les dépendances 
-  *Valable pour Option 1 et 2*  
+    *Valable pour Option 1 et 2*  
   --> pip install -r requirements.txt
 
 6. #### Lancer l’application
