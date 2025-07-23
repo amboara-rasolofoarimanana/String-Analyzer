@@ -9,7 +9,7 @@ Cette application Streamlit automatise l’analyse de la performance des panneau
 ## 🚀 Fonctionnalités principales
 
 1- **Importation des données relatives à la production et à la caractérisation des panneaux photovoltaïques**  
-(détails et consignes disponibles dans l'onglet "Indications" de l'application)
+(détails et consignes disponibles dans l'onglet "Indications" de l'application | Fichiers test disponibles dans le fichier data)
 
 2- **Calculs et visualisations interactives** 
  
