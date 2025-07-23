@@ -73,11 +73,11 @@ Cette application offre ainsi un outil puissant et intuitif pour optimiser le su
   - **Sur macOS/Linux**
     --> source env/bin/activate
 
-5. #### Installer les dépendances  
-  --> pip install -r requirements.txt
+5. #### Installer les dépendances
+   --> pip install -r requirements.txt
 
-6. #### Lancer l’application 
-  --> streamlit run app.py
+7. #### Lancer l’application
+   --> streamlit run app.py
 
 ## 👩‍💻 Auteur & Contact
 Développée par Amboara RASOLOFOARIMANANA
