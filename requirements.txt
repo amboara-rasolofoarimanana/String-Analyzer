@@ -1,0 +1,8 @@
+streamlit
+pandas
+altair
+altair_saver
+numpy
+python-docx
+reportlab
+vl-convert-python
