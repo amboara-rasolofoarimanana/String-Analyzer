@@ -1,4 +1,4 @@
-# Analyse de performance photovoltaïque - String Analyzer
+# String Analyzer
  
 
 ## 📝 Description
@@ -40,47 +40,47 @@ Cette application offre ainsi un outil puissant et intuitif pour optimiser le su
 
 ### 📌 Prérequis
 
-- Python 3.8 ou plus récent installé
-- Librairies Python (voir fichier `requirements.txt`)
-- Accès à un terminal ou à VS Code
+  - Python 3.8 ou plus récent installé
+  - Librairies Python (voir fichier `requirements.txt`)
+  - Accès à un terminal ou à VS Code
 
 
 ### 📌 Etapes à suivre
 
 1. #### Télécharger le projet
-- **Option A : Cloner le dépôt GitHub si vous avez git**
+  - **Option A : Cloner le dépôt GitHub si vous avez git**
     git clone https://lien_du_depot.git
     cd nom_du_dossier
-- **Option B : Télécharger le dossier compressé (.zip) et l’extraire**
+  - **Option B : Télécharger le dossier compressé (.zip) et l’extraire**
 
 
 2. #### Se placer dans le dossier du projet
-- **Option 1 : Utilisation du terminal classique du système**
+  - **Option 1 : Utilisation du terminal classique du système**
     ecrire --> cd chemin/vers/le/dossier_du_projet
-- **Option 2 : Utilisation de VSCode**
+  - **Option 2 : Utilisation de VSCode**
     Aller dans Fichier > Ouvrir un dossier et sélectionner le dossier du projet
 
 3. #### Créer un environnement virtuel 
-- **Option 1 : Utilisation du terminal classique du système**
+  - **Option 1 : Utilisation du terminal classique du système**
     ecrire --> python -m venv env
-- **Option 2 : Utilisation de VSCode**
+  - **Option 2 : Utilisation de VSCode**
     *ouvrir le terminal intégré de VS Code  (Ctrl + ù ou Terminal > Nouveau terminal)* 
     écrire --> python -mvenv env
 
 4. #### Activer l'environnement virtuel
-   *Valable pour Option 1 et 2*
-- **Sur Windows** 
+*Valable pour Option 1 et 2*
+  - **Sur Windows** 
   écrire --> .\env\Scripts\activate
-- **Sur macOS/Linux** 
+  - **Sur macOS/Linux** 
   écrire --> source env/bin/activate
 
 5. #### Installer les dépendances 
   *Valable pour Option 1 et 2*
-écrire --> pip install -r requirements.txt
+  écrire --> pip install -r requirements.txt
 
 6. #### Lancer l’application
   *Valable pour Option 1 et 2*
-écrire --> streamlit run app.py
+  écrire --> streamlit run app.py
 
 ## 👩‍💻 Auteur & Contact
 Développée par Amboara RASOLOFOARIMANANA
