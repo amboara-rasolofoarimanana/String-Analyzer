@@ -4,7 +4,7 @@
 ## 📝 Description
 Cette application Streamlit automatise l’analyse de la performance des panneaux solaires sur un site photovoltaïque. Elle permet de charger différents types de données, de les analyser, et de générer un rapport détaillé au format Word avec graphiques et tableaux.
 
----
+
 
 ## 🚀 Fonctionnalités principales
 
@@ -34,7 +34,7 @@ Cette application Streamlit automatise l’analyse de la performance des panneau
 Cette application offre ainsi un outil puissant et intuitif pour optimiser le suivi et la maintenance des installations photovoltaïques.
 
 
----
+
 
 ## ▶️ Mode d'emploi
 
