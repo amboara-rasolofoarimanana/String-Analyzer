@@ -1178,3 +1178,7 @@ elif onglet == "📊 Analyse & Visualisation":
                 else:
                     st.warning("Aucune donnée complète pour comparaison entre onduleurs.")
 
+
+
+
+# Code écrit par Amboara RASOLOFOARIMANANA
