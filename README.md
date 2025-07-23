@@ -26,9 +26,9 @@ Cette application Streamlit automatise l’analyse de la performance des panneau
 3- **Génération automatisée d’un rapport Word personnalisable incluant tableaux et graphiques**
 
 4- **Analyse personnalisée avec sélection flexible**   
-    - Choix de l'onduleur à analyser   
-    - Sélection précise de la période temporelle 
-    - Filtrage des strings photovoltaïques à inclure dans certaines visualisations
+    - Choix de l'onduleur à analyser  
+    - Sélection précise de la période temporelle  
+    - Filtrage des strings photovoltaïques à inclure dans certaines visualisations  
     - Choix des sections à inclure dans le rapport
 
 Cette application offre ainsi un outil puissant et intuitif pour optimiser le suivi et la maintenance des installations photovoltaïques.
