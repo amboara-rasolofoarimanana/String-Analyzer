@@ -49,38 +49,38 @@ Cette application offre ainsi un outil puissant et intuitif pour optimiser le su
 
 1. #### Télécharger le projet
   - **Option A : Cloner le dépôt GitHub si vous avez git**
-    git clone https://lien_du_depot.git
-    cd nom_du_dossier
+    --> git clone https://lien_du_depot.git
+    --> cd nom_du_dossier
   - **Option B : Télécharger le dossier compressé (.zip) et l’extraire**
 
 
 2. #### Se placer dans le dossier du projet
   - **Option 1 : Utilisation du terminal classique du système**
-    ecrire --> cd chemin/vers/le/dossier_du_projet
+    --> cd chemin/vers/le/dossier_du_projet
   - **Option 2 : Utilisation de VSCode**
-    Aller dans Fichier > Ouvrir un dossier et sélectionner le dossier du projet
+    --> Fichier > Ouvrir un dossier et sélectionner le dossier du projet
 
 3. #### Créer un environnement virtuel 
   - **Option 1 : Utilisation du terminal classique du système**
-    ecrire --> python -m venv env
+    --> python -m venv env
   - **Option 2 : Utilisation de VSCode**
-    *ouvrir le terminal intégré de VS Code  (Ctrl + ù ou Terminal > Nouveau terminal)* 
-    écrire --> python -mvenv env
+    *ouvrir le terminal intégré de VS Code  (Ctrl + ù ou Terminal > Nouveau terminal)*
+    --> python -mvenv env
 
 4. #### Activer l'environnement virtuel
 *Valable pour Option 1 et 2*
-  - **Sur Windows** 
-  écrire --> .\env\Scripts\activate
-  - **Sur macOS/Linux** 
-  écrire --> source env/bin/activate
+  - **Sur Windows**
+    --> .\env\Scripts\activate
+  - **Sur macOS/Linux**
+    --> source env/bin/activate
 
 5. #### Installer les dépendances 
-  *Valable pour Option 1 et 2*
-  écrire --> pip install -r requirements.txt
+  *Valable pour Option 1 et 2*  
+  --> pip install -r requirements.txt
 
 6. #### Lancer l’application
-  *Valable pour Option 1 et 2*
-  écrire --> streamlit run app.py
+  *Valable pour Option 1 et 2*  
+  --> streamlit run app.py
 
 ## 👩‍💻 Auteur & Contact
 Développée par Amboara RASOLOFOARIMANANA
