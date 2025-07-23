@@ -80,5 +80,5 @@ Cette application offre ainsi un outil puissant et intuitif pour optimiser le su
    --> streamlit run app.py
 
 ## 👩‍💻 Auteur & Contact
-Développée par Amboara RASOLOFOARIMANANA
+Développé par Amboara RASOLOFOARIMANANA  
 amboara.rasolofo@gmail.com
