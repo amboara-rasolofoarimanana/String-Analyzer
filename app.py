@@ -64,7 +64,7 @@ def lire_fichier(fichier):
     if extension in ['.xls', '.xlsx']:
         return pd.read_excel(fichier)
     elif extension == '.csv':
-        return pd.read_csv(fichier, encoding='utf-8')
+        return pd.read_csv(fichier)
     else:
         raise ValueError(f"Format de fichier non pris en charge : {extension}")
 
