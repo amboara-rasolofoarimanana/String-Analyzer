@@ -203,7 +203,7 @@ def generer_word(site, onduleur, date_debut, date_fin, img_barres, top3_df, flop
         paragraph_logo = doc.add_paragraph()
         paragraph_logo.alignment = WD_PARAGRAPH_ALIGNMENT.CENTER 
         run_logo = paragraph_logo.add_run()
-        run_logo.add_picture(logo_path, width=Inches(1))  # adapte la taille selon ton logo
+        run_logo.add_picture(logo_path, width=Inches(1))  
         
     
      # === Titre principal ===
